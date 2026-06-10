@@ -1,4 +1,0 @@
-{
-  "version": "1.0.1",
-  "url": "https://github.com/loveonce/Python-Script-Runner/releases/latest/download/ScriptRunnerApp.exe"
-}
